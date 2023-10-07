@@ -66,12 +66,13 @@ You can see all documentations in [`/docs/`](/docs/) folder.
 Application using `TCP Socket` ➝ [**`tcp-version` branch** (link)](https://github.com/Shuta-Syd/DES02-Piracer-Instrument/tree/tcp-version) <br/>
 Application using `D-BUS` ➝ [**`dbus-version` branch** (link)](https://github.com/Shuta-Syd/DES02-Piracer-Instrument/tree/dbus-version) <br/>
 <br/>
-You can see differences in this documentation. [(Link)](https://github.com/Shuta-syd/DES02-PiRacer-instrument/blob/main-documentation/docs/Inter-Process-Communication.md#what-is-different-between-d-bus-vs-tcpip-socket)
+You can see differences in this documentation. 
 
 | TCP Version | DBUS Version |
 |:-------:|:-------:|
-|[tcp-version.md](/docs/V1-tcp-socket.md)| |
-|<img src="./docs/imgs/architecture-socket.png" width="100%">|<img src="./docs/imgs/architecture-socket.png" width="100%">|
+|[tcp-version.md](/docs/V1-tcp-socket.md)|[dbus-version.md](/docs/V2-dbus-socket.md) |
+
+<img src="./docs/imgs/architecture-socket.png" width="40%">
 
 ## :runner:  Demonstration Video
 <img src="./docs/imgs/demonstration.gif" width="40%" margin="120%">
